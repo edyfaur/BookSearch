@@ -1,0 +1,4 @@
+Am creat o un model pentru book ce creeaza si tabela in baza de date . un repository ce face cautarea in baza de date. controler ce permite accesarea advreisei de pe server ce duce la cautarea solutiei. 
+pentru front end am folosit react pentru ui. in ui sunt 2 componente pagina principala ce are un buton ce duce catre componenta de search de unde cu un fetch face acces catre server de unde preia lista, cererea trimite un keyword dupa care se face cautarea
+
+https://github.com/edyfaur/BookSearch
